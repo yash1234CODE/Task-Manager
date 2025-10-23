@@ -1,0 +1,15 @@
+# Java
+/taskmanager/target/
+**/target/
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# Node
+/frontend/node_modules
+/frontend/dist
+
+# OS
+.DS_Store
